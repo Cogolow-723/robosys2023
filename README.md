@@ -1,4 +1,4 @@
-# robosys2023
+# plusコマンド
 ロボットシステム学2023
 [![test](https://github.com/Cogolow-723/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/Cogolow-723/robosys2023/actions/workflows/test.yml)
 
