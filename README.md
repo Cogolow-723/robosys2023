@@ -24,7 +24,7 @@
 $chmod +x plus
 $seq 10 > nums[any name files]
 $./plus < nums
-$ 55
+55
 
 ```
 
@@ -38,12 +38,7 @@ $ cd robosys2023
 ```
 
 ## テスト環境
-* Ubuntu
-
-## 作成者
-* 毛利夏海
-* 千葉工業大学先進工学部未来ロボティクス学科
-* E-mail : rfthnz723@gmail.com 
+* Ubuntu 20.04
 
 ##License
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.
